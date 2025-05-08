@@ -1,10 +1,11 @@
 ## Hi there viewer👋
 
-My name is Sanath Surya and I'm an confident aspiring Buiness Analyst with the strong beleif of being equipped with the necessary soft & technical skillset with an understanding of Business Analysis life cycle and its practical application and an understading of Software Development Life cycle.
-Also I do am aware of my wanna be roles & responsibilities as a Business Analyst, beginning with understanding Business needs by meeting and gathering requirements from the stakeholders, followed by translating these requirements into solutions by creating BRD's and user stories, then suggesting data-driven decision support by analyzing business trends using tools and providing a plan for process improvement & optimization all under the work of collaboration and effective communication.
+I'm Sanath Surya, a confident aspiring Business Analyst skilled in the Business Analysis and Software Development Life Cycles. 
 
-🔭 I’m currently working on honing my technical skills for using analytical tools for facilitating informed decisions. 
+I understand my role involves gathering stakeholder requirements, translating them into solutions (BRDs, user stories), analyzing business trends for data-driven decisions, and optimizing processes—all through collaboration and effective communication.
 
+🔭 I’ve worked on SQL and tableau as a part of learning project. 
+🌱 I’m currently learning the python frameworks for cleansing and analyzing the data.
 <!--
 **sur1yas/sur1yas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
