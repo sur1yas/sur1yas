@@ -5,6 +5,7 @@ I'm Sanath Surya, a confident aspiring Business Analyst skilled in the Business 
 I understand my role involves gathering stakeholder requirements, translating them into solutions (BRDs, user stories), analyzing business trends for data-driven decisions, and optimizing processes—all through collaboration and effective communication.
 
 🔭 I’ve worked on SQL and tableau as a part of learning project. 
+
 🌱 I’m currently learning the python frameworks for cleansing and analyzing the data.
 <!--
 **sur1yas/sur1yas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
