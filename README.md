@@ -1,7 +1,10 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+## Hi there viewer👋
+
+My name is Sanath Surya and I'm an confident aspiring Buiness Analyst with the strong beleif of being equipped with the necessary soft & technical skillset with an understanding of Business Analysis life cycle and its practical application and an understading of Software Development Life cycle.
+Also I do am aware of my wanna be roles & responsibilities as a Business Analyst, beginning with understanding Business needs by meeting and gathering requirements from the stakeholders, followed by translating these requirements into solutions by creating BRD's and user stories, then suggesting data-driven decision support by analyzing business trends using tools and providing a plan for process improvement & optimization all under the work of collaboration and effective communication.
+
+🔭 I’m currently working on honing my technical skills for using analytical tools for facilitating informed decisions. 
+
 <!--
 **sur1yas/sur1yas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
