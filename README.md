@@ -1,6 +1,6 @@
 ## Hi there viewer👋
 
-I'm Sanath Surya, a confident aspiring Business Analyst skilled in the Business Analysis and Software Development Life Cycles. 
+I'm Sanath Surya, aspiring Business Analyst from technical backgroud with experience in Business development. 
 
 I understand my role involves gathering stakeholder requirements, translating them into solutions (BRDs, user stories), analyzing business trends for data-driven decisions, and optimizing processes—all through collaboration and effective communication.
 
